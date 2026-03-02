@@ -1,5 +1,9 @@
 # 2026-1sem-ADS-BancoDeDados-exercicios
 
+### Professor Miguél Suares
+
+### Turmas: DS3P40, DS3Q40, DS3R40, DS2P40
+
 
 
 | RA    | NOME ALUNO              |  LINK                                                                                              |
